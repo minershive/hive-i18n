@@ -557,5 +557,7 @@
   "Farm Hash": "Farm Hash",
   "Transfer farm": "Transfer farm",
   "Farm.Setting.TransferDescription": "Transfer farm to another user. Enter login of existing user who will be new farm's owner.",
-  "No wallets found so far.": "No wallets found so far."
+  "No wallets found so far.": "No wallets found so far.",
+  "FlightSheetForm.NamePlaceholder": "Optional field to describe additional info",
+  "FSFormItem.DcriHelp": "Decred/Siacoin/Lbry/Pascal intensity. Default value is 30. For PASC reasonable value is around 10, for SIA it's around 15. Higher values will cause dropdown on ETH mining."
 }
