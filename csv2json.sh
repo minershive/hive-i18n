@@ -12,13 +12,13 @@ for fname in *.csv; do
 
     {
     echo '{'
-    cat $fname |
+    cat "$fname" |
         sed '/^$/d' | #delete empty linex
         sed 's/","/": "/g' | #key: value
         sed 's/$/,/g' |  #coma
         sed '$ s/,$//' # delete last coma
     echo '}'
-    } | jq . > $jname
+    } | jq . > "$jname"
 
 done
 
