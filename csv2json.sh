@@ -5,13 +5,13 @@ cd `dirname $0`
 
 for fname in *.csv; do
 
-	jname=`basename -s .csv $fname`.json
+    jname=`basename -s .csv $fname`.json
 
     echo "Converting $fname to $jname"
 
 
-	{
-	echo '{'
+    {
+    echo '{'
     cat $fname |
         sed '/^$/d' | #delete empty linex
         sed 's/","/": "/g' | #key: value
