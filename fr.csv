@@ -1,558 +1,558 @@
-"link","link"
-"An error has occurred. Please, try again later","An error has occurred. Please, try again later"
-"Flight Sheet successfully removed","Flight Sheet successfully removed"
-"Flight Sheet successfully created","Flight Sheet successfully created"
-"Command sent","Command sent"
-"Request for owner change has been sent","Request for owner change has been sent"
-"Settings updated","Settings updated"
-"Tag added","Tag added"
-"Tag edited","Tag edited"
-"Tag removed","Tag removed"
-"Wallet added","Wallet added"
-"Wallet edited","Wallet edited"
-"Wallet removed","Wallet removed"
-"Collaborator added","Trusted user added"
-"Collaborator removed","Trusted user removed"
-"Collaborator edited","Trusted user edited"
-"Action.LeftFarm","You have left the farm"
-"Action.UpdateFs","Flight Sheet successfully updated. Offline workers will need to reboot to see the changes"
-"Action.AddOC","Overclocking Profile successfully created"
-"Action.RefillFarm","Farm ballance refilled"
-"Action.ErrorServerRequest","An error has occurred. Please, try again later"
-"Error","Error"
-"You successfully subscribed","You successfully subscribed"
-"Token successfully updated","Token successfully updated"
-"Token successfully created","Token successfully created"
-"Token successfully revoked","Token successfully revoked"
-"Promocode successfully sended","Promocode successfully sended"
-"Address successfully changed","Address successfully changed"
-"Action.PayoutToAccount","Your account balance successfully refilled"
-"Password successfully updated","Password successfully updated"
-"2FA enabled","2FA enabled"
-"2FA removed","2FA removed"
-"NVIDIA","NVIDIA"
-"Apply","Apply"
-"Confirm","Confirm"
-"Enter telegram id to subscribe","Enter telegram id to subscribe"
-"Enter code to confirm","Enter code to confirm"
-"Subscribe","Subscribe"
-"Remove","Remove"
-"Are you shure?","Are you sure?"
-"Edit","Edit"
-"temp","temp"
-"Farms","Farms"
-"workers","workers"
-"ethash","ethash"
-"Off","Off"
-"30 seconds","30 seconds"
-"1 minute","1 minute"
-"2 minutes","2 minutes"
-"5 minutes","5 minutes"
-"Auto Refresh Page Timer","Auto Refresh Page Timer"
-"All","All"
-"Cancel","Cancel"
-"Download VBIOS","Download VBIOS"
-"GPU index","GPU index"
-"Note: GPU index may be very different from miner order to PCI bus order.","Note: GPU index may be very different from miner order to PCI bus order."
-"Download","Download"
-"Apply Changes","Apply Changes"
-"Wallet and worker template:","Wallet and worker template:"
-"Pass:","Pass:"
-"Extra config arguments:","Extra config arguments:"
-"Pool URL:","Pool URL:"
-"Miner Fork:","Miner Fork:"
-"Hash algorithm:","Hash algorithm:"
-"Extra params for pool:","Extra params for pool:"
-"Extra arguments for miner:","Extra arguments for miner:"
-"Version:","Version:"
-"Template examples:","Template examples:"
-"for most of the pools","for most of the pools"
-"Intensity, -dcri 0...100","Intensity, -dcri 0...100"
-"claymore","claymore"
-"epools.txt template:","epools.txt template:"
-"dpools.txt template:","dpools.txt template:"
-"Claymore config override:","Claymore config override:"
-"Example for nanopool:","Example for nanopool:"
-"Example for nicehash:","Example for nicehash:"
-"Second coin algo","Second coin algo"
-"Config override:","Config override:"
-"Pool server:","Pool server:"
-"Port:","Port:"
-"index","index"
-"AMD config override:","AMD config override:"
-"Nvidia config override:","Nvidia config override:"
-"CPU config override:","CPU config override:"
-"Errors","Errors"
-"last 24 hours","last 24 hours"
-"Workers with errors","Workers with errors"
-"No errors found","No errors found"
-"Show","Show"
-"Overclocking","Overclocking"
-"Coins","Coins"
-"Pools","Pools"
-"Miners","Miners"
-"Select pools","Select pools"
-"Select miners","Select miners"
-"Select coin","Select coin"
-"Select overclocking","Select overclocking"
-"by","by"
-"View payload","View payload"
-"Add Wallet","Add Wallet"
-"Max Temperature","Max Temperature"
-"Trust user","Trust user"
-"Add Worker","Add Worker"
-"Remove all workers' messages","Remove all workers' messages"
-"Save","Save"
-"ASIC Critical Temperature","ASIC Critical Temperature"
-"Ask a question","Ask a question"
-"Report an issue","Report an issue"
-"Tags","Tags"
-"Wallets","Wallets"
-"Platform","Platform"
-"Run","Run"
-"Wallet","Wallet"
-"Coin","Coin"
-"Pool","Pool"
-"Miner","Miner"
-"Select pool","Select pool"
-"Select miner","Select miner"
-"Select wallet","Select wallet"
-"Configure Pool","Configure Pool"
-"Setup Miner Config","Setup Miner Config"
-"Dual Coin","Dual Coin"
-"Dual Wallet","Dual Wallet"
-"Dual Pool","Dual Pool"
-"Decred/Siacoin/Lbry/Pascal intensity. Default value is 30. For PASC reasonable value is around 10, for SIA it's around 15. Higher values will cause dropdown on ETH mining.","Decred/Siacoin/Lbry/Pascal intensity. Default value is 30. For PASC reasonable value is around 10, for SIA it's around 15. Higher values will cause dropdown on ETH mining."
-"Configure in miner","Configure in miner"
-"Update","Update"
-"Add New Flight Sheet","Add New Flight Sheet"
-"Reset","Reset"
-"Create Flight Sheet","Create Flight Sheet"
-"Add Miner","Add Miner"
-"Email","Email"
-"worker","worker"
-"selected","selected"
-"Are you want to apply current Flight Sheet for","Are you want to apply current Flight Sheet for"
-"Choose Flight Sheet for","Choose Flight Sheet for"
-"Your Company","Your Company"
-"Home","Home"
-"Admin","Admin"
-"Privacy","Privacy"
-"Not Found","Not Found"
-"off","off"
-"No","No"
-"min","min"
-"Remote","Remote"
-"Consumption","Consumption"
-"AES","AES"
-"Cores","Cores"
-"Motherboard","Motherboard"
-"Free space","Free space"
-"Free RAM","Free RAM"
-"OS version","OS version"
-"Drivers","Drivers"
-"Yes","Yes"
-"System type","System type"
-"Kernel","Kernel"
-"Local IP","Local IP"
-"Load Average","Load Average"
-"rigs","rigs"
-"Jump to farms, workers...","Jump to farms, workers..."
-"Notifications","Notifications"
-"unread","unread"
-"Show all","Show all"
-"No notifications yet","No notifications yet"
-"View geo location","View geo location"
-"from","from"
-"Accept","Accept"
-"Decline","Decline"
-"Term expires in","Term expires in"
-"Enter value","Enter value"
-"Generate","Generate"
-"Enter start date","Enter start date"
-"Start date","Start date"
-"End date","End date"
-"Enter end date","Enter end date"
-"Name","Name"
-"Create","Create"
-"Russian","Russian"
-"Chinese","Chinese"
-"English","English"
-"No activities found so far","No activities found so far"
-"all activities","all activities"
-"Latest Activity","Latest Activity"
-"Load","Load"
-"warning"," dstm 0.6.0 had changed config syntax"
-"Previous","Previous"
-"Next","Next"
-"configuration","configuration"
-"Running Flight Sheet","Running Flight Sheet"
-"Account","Account"
-"Sign Out","Sign Out"
-"Billing","Billing"
-"Support","Support"
-"Community","Community"
-"Forum","Forum"
-"Referrals","Referrals"
-"Sorry, you do not have sufficient rights to view this page","Sorry, you do not have sufficient rights to view this page"
-"to","to"
-"Login","Login"
-"access","access"
-"Notification Event changed","Notification Event changed"
-"Access changed for","Access changed for"
-"Whitelist changed","Whitelist changed"
-"Account.NotificationDescription6","You can add this bot to a chat group so that several admins can monitor workers. Create your group and add 'hiveosbot' as a member there. The chat code is negative for groups, something like '-12345'."
-"Account.NotificationDescription1","Start a new chat with this bot."
-"Account.NotificationDescription2","The bot will reply to you and you will see your CODE which you should in the field right. Something like '12345'."
-"Account.NotificationDescription3","Your login is"
-"Account.NotificationDescription4","Send a command to bot"
-"Account.NotificationDescription5","and it will subscribe your account to receive notifications."
-"Update Settings","Update Settings"
-"Fan","Fan"
-"Core Clock","Core Clock"
-"Memory Clock","Memory Clock"
-"Power Limit","Power Limit"
-"(0 for auto)","(0 for auto)"
-"(0 for stock value)","(0 for stock value)"
-"Specify which device should be fed our senior solution, --revA","Specify which device should be fed our senior solution, --revA"
-"Usually this value is double from what you see in AfterBurner. E.g. if in Windows it's +800Mhz, here you should write 1600.","Usually this value is double from what you see in AfterBurner. E.g. if in Windows it's +800Mhz, here you should write 1600."
-"Turn Off LEDs (may not work on some cards)","Turn Off LEDs (may not work on some cards)"
-"OhGodAnETHlargementPill","OhGodAnETHlargementPill"
-"You can specify one value for all cards or list of values for each card separated by space.","You can specify one value for all cards or list of values for each card separated by space."
-"one value for all GPUs.","one value for all GPUs."
-"means GPU0 = none, GPU1 = 100, etc.","means GPU0 = none, GPU1 = 100, etc."
-"Configure","Configure"
-"Overclocking Settings","Overclocking Settings"
-"Choose Overclocking Profiles for","Choose Overclocking Profiles for"
-"Are you want to apply current Overclocking Profile for","Are you want to apply current Overclocking Profile for"
-"Invalid Shares","Invalid Shares"
-"Show all payments","Show all payments"
-"No payments yet","No payments yet"
-"Pool address","Pool address"
-"Select pool address","Select pool address"
-"Add New Pool","Add New Pool"
-"Enter email","Enter email"
-"Select Pool Server","Select Pool Server"
-"Selected Pool Servers","Selected Pool Servers"
-"on","on"
-"rights","rights"
-"Workers","Workers"
-"Balance","Balance"
-"Shared with me","Shared with me"
-"Timezone","Timezone"
-"Create New Farm","Create New Farm"
-"Select timezone","Select timezone"
-"Input farm name","Input farm name"
-"Mem State","Mem State"
-"Core Voltage","Core Voltage"
-"Core State","Core State"
-"in claymore config override.","in claymore config override."
-"You can set fan speed but the miner (claymore) will control it anyways. You should disable fan control in miner config for this to work. Put","You can set fan speed but the miner (claymore) will control it anyways. You should disable fan control in miner config for this to work. Put"
-"You should use this parameter with 'Mem Clock' setting.","You should use this parameter with 'Mem Clock' setting."
-"RX cards known to have 1 or 2 memory states (actually 3 including 0 idle state). By default the highest state will be selected. But some rare cards are known to fail to undervolt on the highest state and required to select a lower one. For example the highest is 2 and for undervolting you would want to set state 1.","RX cards known to have 1 or 2 memory states (actually 3 including 0 idle state). By default the highest state will be selected. But some rare cards are known to fail to undervolt on the highest state and required to select a lower one. For example the highest is 2 and for undervolting you would want to set state 1."
-"This is a very advanced parameter. Try this if there are problems with undervolting. If it works - don't touch this.","This is a very advanced parameter. Try this if there are problems with undervolting. If it works - don't touch this."
-"from VBIOS table.","from VBIOS table."
-"meaning mV or values like","meaning mV or values like"
-"You can set values like","You can set values like"
-"state will be used to set the voltage.","state will be used to set the voltage."
-"This is required if you try to undervolt you card. And you MUST set 'Core State' or default","This is required if you try to undervolt you card. And you MUST set 'Core State' or default"
-"Lower the value to downvolt.","Lower the value to downvolt."
-"Default is","Default is"
-"DPM (Dynamic Power Management)","DPM (Dynamic Power Management)"
-"This is required if you try to undervolt you card. You should use this parameter with 'Core Clock' setting and 'Core Voltage'.","This is required if you try to undervolt you card. You should use this parameter with 'Core Clock' setting and 'Core Voltage'."
-"If 'Core State' is unset, then the default","If 'Core State' is unset, then the default"
-"Set core clock here, a good value would be around","Set core clock here, a good value would be around"
-"state will be used to set the clock.","state will be used to set the clock."
-"Refill","Refill"
-"balance","balance"
-"per month","per month"
-"Recommended payment is","Recommended payment is"
-"From balance","From balance"
-"With Coinpayment","With Coinpayments"
-"Console","Console"
-"Execute command","Execute command"
-"Wrong command","Wrong command"
-"Remove all messages?","Remove all messages?"
-"EDIT","EDIT"
-"Overview","Overview"
-"Cards","Cards"
-"CONSOLE","CONSOLE"
-"Offline","Offline"
-"Booted","Booted"
-"Uptime","Uptime"
-"TRANSFER","TRANSFER"
-"Monitoring","Monitoring"
-"Reboot","Reboot"
-"Miner Config","Miner Config"
-"Rocket","Rocket"
-"Upgrade","Upgrade"
-"Shutdown","Shutdown"
-"OpenVPN configuration","OpenVPN configuration"
-"Power actions","Power actions"
-"Server URL","Server URL"
-"Edit tags","Edit tags"
-"Miner actions","Miner actions"
-"Teleconsole Start","Teleconsole Start"
-"Teleconsole Stop","Teleconsole Stop"
-"Teleconsole Restart","Teleconsole Restart"
-"Hashrate watchdog","Hashrate watchdog"
-"Run command","Run command"
-"Miner Log","Miner Log"
-"Stop Miner","Stop Miner"
-"Restart Miner","Restart Miner"
-"Remote access","Remote access"
-"more messages","more messages"
-"Add","Add"
-"Password","Password"
-"Description","Description"
-"Add New Worker","Add New Worker"
-"Enter worker name","Enter worker name"
-"Enter worker password","Enter worker password"
-"Enter worker description","Enter worker description"
-"rejected","rejected"
-"shared","shared"
-"Upgrade to","Upgrade to"
-"New features","New features"
-"New version","New version"
-"Current version","Current version"
-"SaveOCModal","SaveOCModal"
-"Enter Name","Enter Name"
-"Overclocking Profile Name","Overclocking Profile Name"
-"Save Overclocking as Template","Save Overclocking as Template"
-"Set","Set"
-"Default","Default"
-"Choose URL","Choose URL"
-"Be careful! Always prepare physical or network access (SSH) to the worker before you change this setting. If the worker is not able to connect to selected URL it will become Offline for Hive. Mirror URL is saved in /hive-config/rig.conf where you can edit it manually.","Be careful! Always prepare physical or network access (SSH) to the worker before you change this setting. If the worker is not able to connect to selected URL it will become Offline for Hive. Mirror URL is saved in /hive-config/rig.conf where you can edit it manually."
-"If you leave it as 'Default' then Hive can decide where to connect. Usually it will be the first in the list.","If you leave it as 'Default' then Hive can decide where to connect. Usually it will be the first in the list."
-"If you have problems with connecting hive server from your worker and have often false Offline/Online events, then you can try to choose different server connection URL. Sometimes there is problem with firewall (your own or ISP) and switching port would help.","If you have problems with connecting hive server from your worker and have often false Offline/Online events, then you can try to choose different server connection URL. Sometimes there is problem with firewall (your own or ISP) and switching port would help."
-"Mirror Select","Mirror Select"
-"Stats","Stats"
-"gpu","gpu"
-"for 24 hours","for 24 hours"
-"View all","View all"
-"day","day"
-"Day left","Day left"
-"Days left","Days left"
-"New Tag Name","New Tag Name"
-"Add Tag","Add Tag"
-"Add tag","Add tag"
-"Explore transaction","Explore transaction"
-"Referrals.TransactionsNotFound","No transactions yet"
-"Upload VBIOS","Upload VBIOS"
-"VBIOS ROM file","VBIOS ROM file"
-"Force flashing regardless or security checking","Force flashing regardless or security checking"
-"Upload","Upload"
-"client.conf (with embeded certs upload only this file)","client.conf (with embeded certs upload only this file)"
-"Login (auth-user-pass)","Login (auth-user-pass)"
-"Password (auth-user-pass)","Password (auth-user-pass)"
-"Address","Address"
-"Enter wallet address","Enter wallet address"
-"Enter wallet name","Enter wallet name"
-"Accepted shares ratio","Accepted shares ratio"
-"Invalid shares","Invalid shares"
-"High Temperature","High Temperature"
-"Low hashrate","Low hashrate"
-"cores","cores"
-"Hive OS Version:","Hive OS Version:"
-"Power:","Power:"
-"Free disk space:","Free disk space:"
-"Restart","Restart"
-"Stop","Stop"
-"Shut Down","Shut Down"
-"Overclocking profiles","Overclocking profiles"
-"Do you want to upgrade workers to the latest OS verion?","Do you want to upgrade workers to the latest OS version?"
-"Accepted Rejected Invalid, Accepted Ratio","Accepted Rejected Invalid, Accepted Ratio"
-"No stats found so far","No stats found so far"
-"You don't have required access rights","You don't have required access rights"
-"Delete","Delete"
-"You can","You can"
-"create one","create one"
-"FarmsAccess.NoUsersFound","No users found so far."
-"Owner","Owner"
-"Access Levels","Access Levels"
-"User name","User name"
-"Grant access to project","Grant access to project"
-"Grant access","Grant access"
-"Login of existing user","Login of existing user"
-"Access Levels...","Access Levels..."
-"User login","User login"
-"ProjectAccess.TrustUserDescription","You can give control access to your farm to other users, for example, you could give Full Access privileges to your admins in order for them to manage everything in your stead. Or you can give the read-only Monitor access privileges to your technical staff that do simple maintenance and monitoring and nothing more."
-"Profile","Profile"
-"Telegram","Telegram"
-"here","here"
-"Bio","Bio"
-"Update Info","Update Info"
-"Company Info","Company Info"
-"Skype","Skype"
-"Phone","Phone"
-"API docs are","API docs are"
-"Setup Two-factor Authentication","Setup Two-factor Authentication"
-"Two-factor Authentication","Two-factor Authentication"
-"Update Password","Update Password"
-"Confirm New Password","Confirm New Password"
-"Password must be 8 or more characters.","Password must be 8 or more characters."
-"New Password","New Password"
-"Current Password","Current Password"
-"Full Name","Full Name"
-"Account Profile Settings","Account Profile Settings"
-"Language","Language"
-"Account.BIODescription1","Additional information about you."
-"Account.BIODescription2","It is optional."
-"Account.AuthenticationDecstiption","Enable to give your Hive OS account an extra layer of security."
-"Account.PasswordDescription","Changing your password will also reset your API key."
-"Account.ProfileDescription","Your login is your identity on Hive OS and is used to sign in."
-"6 digits code","6 digits code"
-"Enable 2FA","Enable 2FA"
-"Turn off 2FA","Turn off 2FA"
-"Account.AuthenticationTokenButton","Generate new Personal API-token"
-"Authentication Tokens","Authentication Tokens"
-"Account.AuthenticationToken","There you can manage your personal api tokens. You can generate new one for your third side application. Or remove wary session"
-"Personal Tokens","Personal Tokens"
-"Session Tokens","Session Tokens"
-"Authy","Authy"
-"Account.AuthenticationTwoFactor3","which can be installed on multiple devices including Desktop."
-"Account.AuthenticationTwoFactor4","Scan the code with your camera and enter the code below."
-"Farm Activity Feed","Farm Activity Feed"
-"Pay","Pay"
-"Payments","Payments"
-"Amount to refill, $","Amount to refill, $"
-"Your Current Balance","Your Current Balance"
-"Payments History","Payments History"
-"Farms Balance","Farms Balance"
-"Free","Free"
-"Invoice","Invoice"
-"days left","days left"
-"Disable Paid Features","Disable Paid Features"
-"Enable Paid Features","Enable Paid Features"
-"Log in","Log in"
-"Return to","Return to"
-"Reset password","Reset password"
-"Type email to recover password","Type email to recover password"
-"Sorry, a critical error occurred on this page.","Sorry, a critical error occurred on this page."
-"Just one step!","Just one step!"
-"create wallet","create wallet"
-"first!","first!"
-"Farm.FarmsFs.Description","To manage Flight Sheets you need"
-"No Overclocking Profiles found so far. You can","No Overclocking Profiles found so far. You can"
-"Add OC Profile","Add OC Profile"
-"Incoming farms","Incoming farms"
-"Log in your account","Log in your account"
-"2FA code (if enabled)","2FA code (if enabled)"
-"Remember me","Remember me"
-"Forgot password?","Forgot password?"
-"Register","Register"
-"Don't have account yet?","Don't have account yet?"
-"Sorry, the page you were trying to view does not exist.","Sorry, the page you were trying to view does not exist."
-"Referral Link","Referral Link"
-"Referral.ReferralLink1","Put this link anywhere you can and people will marked if they follow this link. After they register you get"
-"Your referral","Your referral"
-"Copy to Clipboard","Copy to Clipboard"
-"Promo Code","Promo Code"
-"Referral.PromoCodeDescription1","Sometimes you can't give your link to people. Here you can generate your unique promocode like \"MIKESHIVE\" or \"SAVEBUCKSFORLAMBO\". If you are hardware seller or service shop or any other offline business this may work for you. To motivate clients to register with your code Hive will deposit"
-"Referral.PromoCodeDescription2","to their account once they do it."
-"ETH Wallet Address","ETH Wallet Address"
-"Referral Balance","Referral Balance"
-"Deposit to Hive","Deposit to Hive"
-"Referral transactions history","Referral transactions history"
-"Referral.BalanceDescription2","Specify your ETH wallet address for automatical payouts at the beginning of each month."
-"Referral.BalanceDescription1","miners joined by your invitation."
-"Referral.BalanceDescription3","Referral withdraws are done once a month. You will be payed if you have set the address here."
-"Referral.BalanceDescription4","Minimum payout is $25 in total."
-"Referral.BalanceDescription5","Due to high BTC Tx Fees your payout currency can be changed."
-"Referral.PromoCodeYoungAccount","Your account is very young to use promocodes."
-"Referral.BalanceDescription","You don't have any referral rewards yet."
-"Passwords do not match","Passwords do not match"
-"Create new account","Create new account"
-"Confirm password","Confirm password"
-"By clicking Register you agree with","By clicking Register you agree with"
-"Terms","Terms"
-"Have already account?","Have already account?"
-"RestorePassword.Message","Successful send password, please check your email"
-"Remove all","Remove all"
-"Id","Id"
-"Activity Feed","Activity Feed"
-"Build Log","Build Log"
-"Other","Other"
-"Flight Sheet","Flight Sheet"
-"Flight Sheets","Flight Sheets"
-"To start mining please select Flight Sheet!","To start mining please select Flight Sheet!"
-"Start Configure Overclocking","Start Configure Overclocking"
-"Flash VBIOS","Flash VBIOS"
-"No Overclocing Settings found so far.","No Overclocking Settings found so far."
-"Load From Template","Load From Template"
-"Save As Template","Save As Template"
-"Reset All","Reset All"
-"Configure New Algo","Configure New Algo"
-"Transfer","Transfer"
-"Advanced Settings","Advanced Settings"
-"Confirmation required","Confirmation required"
-"Removed project CANNOT be restored! Are you ABSOLUTELY sure?","Removed project CANNOT be restored! Are you ABSOLUTELY sure?"
-"This action can lead to data loss. To prevent accidental actions we ask you to confirm your intention","This action can lead to data loss. To prevent accidental actions we ask you to confirm your intention"
-"Please type","Please type"
-"to proceed or close this modal to cancel.","to proceed or close this modal to cancel."
-"You are going to remove worker","You are going to remove worker"
-"Remove Worker","Remove Worker"
-"Removed Worker cannot be restored!","Removed Worker cannot be restored!"
-"Update Worker","Update Worker"
-"Worker Name","Worker Name"
-"Worker Settings","Worker Settings"
-"OpenVPN Config","OpenVPN Config"
-"Are you sure?","Are you sure?"
-"Worker Password","Worker Password"
-"If you change the password in database only and there is active worker using it then the worker will go offline.","If you change the password in database only and there is active worker using it then the worker will go offline."
-"Change password in DB and try to change it on worker. Will try to change password on online worker. Password will be changed only after notification from the worker.","Change password in DB and try to change it on worker. Will try to change password on online worker. Password will be changed only after notification from the worker."
-"Change password in DB only. The worker with current password will offline.","Change password in DB only. The worker with current password will offline."
-"Transfer Worker","Transfer Worker"
-"Move worker to another farm","Move worker to another farm"
-"Do you want to remove worker?","Do you want to remove worker?"
-"Wallet is not transferred with worker. Please apply wallet from other farm after this move is done.","Wallet is not transferred with worker. Please apply wallet from other farm after this move is done."
-"Do you want to transfer worker?","Do you want to transfer worker?"
-"Select farm","Select farm"
-"Flight sheet is not copied with the worker. Please apply flight sheet in a new farm after the movement is done.","Flight sheet is not copied with the worker. Please apply flight sheet in a new farm after the movement is done."
-"Transfer Worker?","Transfer Worker?"
-"Tuning","Tuning"
-"Worker","Worker"
-"Online","Online"
-"With Errors","With Errors"
-"Hide filters","Hide filters"
-"Show filters","Show filters"
-"with","with"
-"Name changed","Name changed"
-"Farm settings","Farm settings"
-"You can only merge the project to other you manage.","You can only merge the project to other you manage."
-"Merge Project","Merge Project"
-"Transfer Project","Transfer Project"
-"Type project name","Type project name"
-"Select user login","Select user login"
-"Remove Project","Remove Project"
-"You are going to remove farm","You are going to remove farm"
-"Type Project Name","Type Project Name"
-"You are going to merge farm","You are going to merge farm"
-"Merged project CANNOT be restored!","Merged project CANNOT be restored!"
-"Are you ABSOLUTELY sure?","Are you ABSOLUTELY sure?"
-"Save Changes","Save Changes"
-"Timezone changed","Timezone changed"
-"Farm changed","Farm changed"
-"Farm.Settings.TagsDescription","Add your custom tags to mark the workers"
-"Farm.Settings.RemoveDescription1","Removing the project will delete its repository and all related resources including issues, merge requests etc."
-"Farm.Settings.RemoveDescription2","Removed projects cannot be restored!"
-"Farm Title","Farm Title"
-"Remove Farm","Remove Farm"
-"Change farm owner?","Change farm owner?"
-"to change ownership to","to change ownership to"
-"Leave Farm","Leave Farm"
-"After this you won't have access to this farm anymore","After this you won't have access to this farm anymore"
-"Do you want to change farm owner?","Do you want to change farm owner?"
-"to remove farm access","to remove farm access"
-"Do you want to remove your access?","Do you want to remove your access?"
-"Do you want to remove farm?","Do you want to remove farm?"
-"Do you want to leave farm?","Do you want to leave farm?"
-"Farm.Setting.FarmHashDescription1","Farm hash is used to connect worker to farm without precreating it on the web."
-"Farm.Setting.FarmHashDescription2","Just set it in"
-"Farm.Setting.FarmHashDescription3","before first run."
-"More details","More details"
-"Farm Hash","Farm Hash"
-"Transfer farm","Transfer farm"
-"Farm.Setting.TransferDescription","Transfer farm to another user. Enter login of existing user who will be new farm's owner."
-"No wallets found so far.","No wallets found so far."
-
+link,lien
+"An error has occurred. Please, try again later","Une erreur a été rencontré, essayer plutard"
+Flight Sheet successfully removed,Feuille de route supprimée avec succès
+Flight Sheet successfully created,Feuille de route créée avec succès
+Command sent,Commande envoyée
+Request for owner change has been sent,Une demande de changement de propriétaire a été envoyée
+Settings updated,Paramètres appliqués
+Tag added,Tag ajouté
+Tag edited,Tag édité
+Tag removed,Tag supprimé
+Wallet added,Portefeuille ajouté
+Wallet edited,Portefeuille édité
+Wallet removed,Portefeuille supprimé
+Collaborator added,Collaborateur ajouté
+Collaborator removed,Collaborateur supprimé
+Collaborator edited,Collaborateur modifié
+Action.LeftFarm,Vous avez quité la ferme
+Action.UpdateFs,La feuille de route à été mise à jour avec succès. Les Workers hors-ligne doivent redémarrer pour prendre en compte les changements
+Action.AddOC,Profil d'Overclocking créé avec succès
+Action.RefillFarm,Le solde de la ferme à été rechargée
+Action.ErrorServerRequest,Une erreur est intervenue. Essayer plutard
+Error,Erreur
+You successfully subscribed,Vous êtes enregistré avec succès
+Token successfully updated,Token mis à jour avec succès
+Token successfully created,Token créé avec succès
+Token successfully revoked,Token supprimé avec succès
+Promocode successfully sended,Promocode envoyé avec succès
+Address successfully changed,Adresse changé avec succès
+Action.PayoutToAccount,Le solde de votre compte à correctement été rechargé
+Password successfully updated,Mot de passe modifier avec succès
+2FA enabled,2FA activé
+2FA removed,2FA désactivé
+,
+NVIDIA,NVIDIA
+Apply,Appliquer
+Confirm,Confirmer
+Enter telegram id to subscribe,Entrer votre telegram id pour vous abonner
+Enter code to confirm,Entrer le code pour confirmer
+Subscribe,Souscrire
+Remove,Supprimer
+Are you shure?,Etes-vous sûr?
+Edit,Editer
+temp,Température
+Farms,Fermes
+workers,Workers
+ethash,ethash
+CriticalIssues,Erreur critique
+Off,Déconnecté
+30 seconds,30 secondes
+1 minute,1 minute
+2 minutes,2 minutes
+5 minutes,5 minutes
+Auto Refresh Page Timer,Temps de rafraîchissement automatique
+All,Tout
+Cancel,Annuler
+Download VBIOS,Télécharger VBIOS
+GPU index,GPU index
+Note: GPU index may be very different from miner order to PCI bus order.,Note: l'index GPU peut-être différent de l'ordre du BUS PCI du mineur.
+Download,Télécharger
+Apply Changes,Appliquer les changements
+Wallet and worker template:,Modèle de Portefeuille et Worker:
+Pass:,Mot de Passe:
+Extra config arguments:,Arguments de configuration supplémentaires:
+Pool URL:,Pool URL:
+Miner Fork:,Mineur dupliqué:
+Hash algorithm:,Hash algorithme:
+Extra params for pool:,Paramètres supplémentaire pour le Pool:
+Extra arguments for miner:,Paramètres supplémentaire pour le mineur:
+Version:,Version:
+Template examples:,Examples de modèle:
+for most of the pools,pour la majorité des Pools
+"Intensity, -dcri 0...100","Intensité, -dcri 0...100"
+claymore,claymore
+epools.txt template:,modèle epools.txt:
+dpools.txt template:,modèle dpools.txt:
+Claymore config override:,Réécrire la configuration de Claymore:
+Example for nanopool:,Example pour nanopool:
+Example for nicehash:,Example pour nicehash:
+Second coin algo,Algorithme de la monnaie secondaire
+Config override:,Réécriture de la configuration:
+Pool server:,Serveur de Pool:
+Port:,Port:
+index,index
+AMD config override:,Réécrire la configuration AMD:
+Nvidia config override:,Réécrire la configuration Nvidia:
+CPU config override:,Réécrire la configuration CPU:
+Errors,Erreurs
+last 24 hours,Dernières 24 heures
+Workers with errors,Workers sans erreurs
+No errors found,Aucunes erreurs
+Show,Afficher
+Overclocking,Overclocking
+Coins,Monnaies
+Pools,Pools
+Miners,Mineurs
+Select pools,Selectionner pools
+Select miners,Selectionner mineurs
+Select coin,Selectionner monnaie
+Select overclocking,Selectionner l'overclocking
+by,par
+View payload,Afficher la charge
+Add Wallet,Ajouter un portefeuille
+Max Temperature,Température maximum
+Trust user,Utilisateur de confiance
+Add Worker,Ajouter un Worker
+Remove all workers' messages,Supprimer tous les messages des Workers
+Save,Sauvegarder
+ASIC Critical Temperature,ASIC Température critique
+Ask a question,Poser une question
+Report an issue,Signaler une erreur
+Tags,Tags
+Wallets,Portefeuilles
+Platform,Plateforme
+Run,Lancer
+Wallet,Portefeuille
+Coin,Monnaie
+Pool,Pool
+Miner,Mineur
+Select pool,Selectionner pool
+Select miner,Selectionner mineur
+Select wallet,Selectionner portefeuille
+Configure Pool,Configurer la Pool
+Setup Miner Config,Configuration de l'installation du mineur
+Dual Coin,Double monnaie
+Dual Wallet,Double portefeuille
+Dual Pool,Double Pool
+"Decred/Siacoin/Lbry/Pascal intensity. Default value is 30. For PASC reasonable value is around 10, for SIA it's around 15. Higher values will cause dropdown on ETH mining.","Decred/Siacoin/Lbry/Pascal intensité. Valeure par défaut est 30. Pour PASC la valeure raisonnable est environ 10, pour SIA environ 15. Des valeurs trop hautes provoqueront une chute de performance sur l'ETH."
+Configure in miner,Configurer sur le mineur
+Update,Actualiser
+Add New Flight Sheet,Ajouter une nouvelle feuille de route
+Reset,Reinitialiser
+Create Flight Sheet,Créer une feuille de route
+Add Miner,Ajouter un Mineur
+Email,Email
+worker,Worker
+selected,Selectionné
+Are you want to apply current Flight Sheet for,Êtes-vous sûr d'appliquer les paramètres de la feuille de route pour
+Choose Flight Sheet for,Choisissez une feuille de route pour
+Your Company,Votre entreprise
+Home,Accueil
+Admin,Admin
+Privacy,Confidentialité
+Not Found,Absent
+off,off
+No,Non
+min,min
+Remote,Distant
+Consumption,Consommation
+AES,AES
+Cores,Coeurs
+Motherboard,Carte mère
+Free space,Espace libre
+Free RAM,RAM libre
+OS version,OS version
+Drivers,Drivers
+Yes,Oui
+System type,Système type
+Kernel,Kernel
+Local IP,Local IP
+Load Average,Charge moyenne
+rigs,RIGs
+"Jump to farms, workers...","Aller à fermes, Workers..."
+Notifications,Notifications
+unread,Non lu
+Show all,Afficher tout
+No notifications yet,Aucunes notifications
+View geo location,Afficher la géolocalisation
+from,depuis
+Accept,Accepter
+Decline,Refuser
+Term expires in,Le terme expire dans
+Enter value,Entrer une valeur
+Generate,Generer
+Enter start date,Entrer une date de début
+Start date,date de début
+End date,date de fin
+Enter end date,Entrer une date de fin
+Name,Nom
+Create,Créer
+Russian,Russe
+Chinese,Chinois
+English,Anglais
+No activities found so far,Aucunes activités depuis longtemps
+all activities,Toutes les activités
+Latest Activity,Dernière Activité
+Load,Charge/Charger
+warning, dstm 0.6.0 à changé la syntaxe de configuration
+Previous,Précédent
+Next,Suivant
+configuration,configuration
+Running Flight Sheet,Feuille de route en cours
+Account,Compte
+Sign Out,Déconnexion
+Billing,Paiement
+Support,Support
+Community,Communauté
+Forum,Forum
+Referrals,Affiliation
+"Sorry, you do not have sufficient rights to view this page","Désolé, vous n'avez pas les droits suffisants pour voir cette page"
+to,vers
+Login,Identifiant
+access,Accès
+Notification Event changed,Evènement de notification changé
+Access changed for,Accès modifié pour
+Whitelist changed,Liste blanche modifiée
+Account.NotificationDescription6,"Vous pouvez ajouter ce robot à un groupe de discussion afin que plusieurs administrateurs puissent surveiller les Workers. Créez votre groupe et ajoutez 'hiveosbot' en tant que membre. Le code de chat est négatif pour les groupes, quelque chose comme '-12345'."
+Account.NotificationDescription1,Démarrer une nouvelle discution avec le robot
+Account.NotificationDescription2,"Le robot vous répondra et vous verrez votre CODE que vous devriez entrer dans le champ à droite. Quelque chose comme ""12345""."
+Account.NotificationDescription3,Votre identifiant est
+Account.NotificationDescription4,Envoyer une commande au robot
+Account.NotificationDescription5,et il va s'abonner à votre compte pour recevoir des notifications.
+Update Settings,Mettre à jour les paramètres
+Fan,Ventilateur
+Core Clock,Fréquence GPU
+Memory Clock,Fréquence mémoire
+Power Limit,Limite d'alimentation
+(0 for auto),(0 pour auto)
+(0 for stock value),(0 pour valeur par défaut )
+"Specify which device should be fed our senior solution, --revA","Spécifiez quel périphérique doit être ??alimenté?? par notre solution ??senior??, --revA"
+"Usually this value is double from what you see in AfterBurner. E.g. if in Windows it's +800Mhz, here you should write 1600.","Habituellement, cette valeur est le double de ce que vous voyez dans AfterBurner. Par exemple. si sous Windows c'est + 800Mhz, ici vous devriez écrire 1600."
+Turn Off LEDs (may not work on some cards),Eteindre les LED (peut ne pas fonctionner sur certaines cartes)
+OhGodAnETHlargementPill,OhGodAnETHlargementPill
+You can specify one value for all cards or list of values for each card separated by space.,Vous pouvez spécifier une valeur pour toutes les cartes ou une liste de valeurs pour chaque carte séparée par un espace.
+one value for all GPUs.,Une seul valeur pour tout les GPUs.
+"means GPU0 = none, GPU1 = 100, etc.","Ce qui veut dire GPU0 = none, GPU1 = 100, etc."
+Configure,Configurer
+Overclocking Settings,Paramètres d'Overclocking
+Choose Overclocking Profiles for,Choisir un profile d'Overclocking pour
+Are you want to apply current Overclocking Profile for,Voulez-vous appliquer le profil d'overclocking actuel pour
+Invalid Shares,Shares invalides
+Show all payments,Afficher tous les paiements
+No payments yet,Aucun paiement pour le moment
+Pool address,Adresse de Pool
+Select pool address,Selectionner une address de Pool
+Add New Pool,Ajouter une nouvelle Pool
+Enter email,Entrer un email
+Select Pool Server,Selectionner un serveur de Pool
+Selected Pool Servers,Selectionner des serveurs de Pool
+on,on
+rights,droits
+Workers,Workers
+Balance,Solde
+Shared with me,Partagé avec moi
+Timezone,Fuseau horaire
+Create New Farm,Créer une nouvelle ferme
+Select timezone,Selectionner un fuseau horaire
+Input farm name,Nom de la ferme
+Mem State,Etat mémoire
+Core Voltage,Tension GPU
+Core State,Etat GPU
+in claymore config override.,dans claymore réécriture de la configuration.
+You can set fan speed but the miner (claymore) will control it anyways. You should disable fan control in miner config for this to work. Put,Vous pouvez régler la vitesse du ventilateur mais le mineur (claymore) le contrôlera de toute façon. Vous devriez désactiver le contrôle du ventilateur dans la configuration du mineur pour que cela fonctionne. Mettre
+You should use this parameter with 'Mem Clock' setting.,Vous devriez utiliser ce paramètre avec le paramètre 'Mem Clock'.
+RX cards known to have 1 or 2 memory states (actually 3 including 0 idle state). By default the highest state will be selected. But some rare cards are known to fail to undervolt on the highest state and required to select a lower one. For example the highest is 2 and for undervolting you would want to set state 1.,"Les cartes AMD RX sont connues pour avoir 1 ou 2 états mémoire (en réalité 3 incluant le 0 état inactif). Par défaut, l'état le plus élevé sera sélectionné. Mais certaines cartes rares sont connues pour ne pouvoir baisser la tension à l'état le plus élevé et doivent en choisir une inférieure. Par exemple, le plus élevé est 2 et pour pouvoir baisser la tension, vous devez définir l'état 1."
+This is a very advanced parameter. Try this if there are problems with undervolting. If it works - don't touch this.,"C'est un paramètre très avancé. Essayez ceci s'il y a des problèmes de sous-tension. Si cela fonctionne, ne touchez à rien."
+from VBIOS table.,depuis la table VBIOS.
+meaning mV or values like,signifie mV ou des valeurs similaires
+You can set values like,Vous pouvez définir des valeurs comme
+state will be used to set the voltage.,l'état sera utilisé pour régler la tension.
+This is required if you try to undervolt you card. And you MUST set 'Core State' or default,Ceci est requis si vous essayez de baisser la tension de votre carte. Et vous devez définir l'état GPU ou laisser par défaut
+Lower the value to downvolt.,Réduisez la valeur pour baisser la tension.
+Default is,Par défaut c'est
+DPM (Dynamic Power Management),DPM (Dynamic Power Management)
+This is required if you try to undervolt you card. You should use this parameter with 'Core Clock' setting and 'Core Voltage'.,Ceci est nécessaire si vous essayez de baisser la tension de votre carte. Vous devriez utiliser ce paramètre avec le paramètre 'Fréquence GPU' et 'Tension GPU'.
+"If 'Core State' is unset, then the default","Si 'Etat GPU' n'est pas défini, la valeur par défaut"
+"Set core clock here, a good value would be around","Définir la Fréquence GPU ici, une bonne valeur serait autour de"
+state will be used to set the clock.,l'état sera utilisé pour régler la Fréquence.
+Refill,Recharger
+balance,Solde
+per month,par mois
+Recommended payment is,Payement recommandé à
+From balance,Depuis le solde
+With Coinpayment,Avec paiement en monnaie
+Console,Console
+Execute command,Executer une commande
+Wrong command,Mauvaise commande
+Remove all messages?,Supprimer tous les messages?
+EDIT,EDITER
+Overview,Aperçu
+Cards,Cards
+CONSOLE,CONSOLE
+Offline,Hors ligne
+Booted,Démarré
+Uptime,Démarré depuis
+TRANSFER,TRANSFERER
+Monitoring,Surveillance
+Reboot,Redémarrer
+Miner Config,Configuration du mineur
+Rocket,Rocket
+Upgrade,Mise à niveau
+Shutdown,Eteindre
+OpenVPN configuration,OpenVPN configuration
+Power actions,Gestion d'alimentation
+Server URL,Serveur URL
+Edit tags,Editer tags
+Miner actions,Actions mineur
+Teleconsole Start,Démarrer Téléconsole
+Teleconsole Stop,Arrêt Téléconsole
+Teleconsole Restart,Redémarrer Téléconsole
+Hashrate watchdog,Vigilance Hashrate
+Run command,Lancer une command
+Miner Log,Fichiers journaux du mineur
+Stop Miner,Arrêter Mineur
+Restart Miner,Redémarrer Mineur
+Remote access,Accès distant
+more messages,Plus de message
+Add,Ajouter
+Password,Mot de passe
+Description,Description
+Add New Worker,Ajouter un nouveau Worker
+Enter worker name,Entrer le nom du Worker
+Enter worker password,Entrer le mot de passe du Worker
+Enter worker description,Entrer la description du Worker
+rejected,Rejeté
+shared,partagé
+Upgrade to,Mise à niveau vers
+New features,Nouvelles fonctionnalités
+New version,Nouvelle version
+Current version,Version actuelle
+SaveOCModal,SaveOCModal
+Enter Name,Entrer le nom
+Overclocking Profile Name,Nom du profil d'Overclocking
+Save Overclocking as Template,Sauvegarder l'Overclocking comme modèle
+Set,Appliquer
+Default,Défaut
+Choose URL,Choisir une URL
+Be careful! Always prepare physical or network access (SSH) to the worker before you change this setting. If the worker is not able to connect to selected URL it will become Offline for Hive. Mirror URL is saved in /hive-config/rig.conf where you can edit it manually.,"Faites attention! Préparez toujours l'accès physique ou réseau (SSH) au Worker avant de modifier ce paramètre. Si le Worker n'est pas en mesure de se connecter à l'URL sélectionnée, il deviendra Hors-Ligne pour HiveOs. L'URL du miroir est enregistrée dans /hive-config/rig.conf où vous pouvez la modifier manuellement."
+If you leave it as 'Default' then Hive can decide where to connect. Usually it will be the first in the list.,"Si vous le laissez par défaut, Hive peut décider où se connecter. Habituellement, ce sera le premier dans la liste."
+"If you have problems with connecting hive server from your worker and have often false Offline/Online events, then you can try to choose different server connection URL. Sometimes there is problem with firewall (your own or ISP) and switching port would help.","Si vous rencontrez des problèmes lors de la connexion du serveur Hive à votre Worker et que vous avez souvent de faux événements Hors ligne / en ligne, vous pouvez essayer de choisir une autre URL de connexion au serveur. Parfois, il y a un problème avec le pare-feu (le vôtre ou le FAI) et changer de port aiderait."
+Mirror Select,Sélectionner miroir
+Stats,Stats
+gpu,gpu
+for 24 hours,pour 24 heures
+View all,Afficher tout
+day,jour
+Day left,jour restant
+Days left,jours restants
+New Tag Name,Nouveau nom de tag
+Add Tag,Ajouter Tag
+Add tag,Ajouter tag
+Explore transaction,Parcourir transaction
+Referrals.TransactionsNotFound,Auncunes transactions
+Upload VBIOS,Charger VBIOS
+VBIOS ROM file,Fichier VBIOS ROM
+Force flashing regardless or security checking,Forcer le flash indépendamment des contrôles de sécurité
+Upload,Charger
+client.conf (with embeded certs upload only this file),client.conf (avec des certificats intégrés ne télécharger que ce fichier)
+Login (auth-user-pass),Identifiant (auth-user-pass)
+Password (auth-user-pass),Mot de passe (auth-user-pass)
+Address,Adresse
+Enter wallet address,Entrer l'adresse du portefeuille
+Enter wallet name,Entrer le nom du portefeuille
+Accepted shares ratio,Ratio des shares acceptés
+Invalid shares,Shares invalides
+High Temperature,Temperature excessive
+Low hashrate,Hashrate bas
+cores,Coeurs
+Hive OS Version:,Hive OS Version:
+Power:,Alimentation:
+Free disk space:,Espace disque libre:
+Restart,Redémarrer
+Stop,Arrêt
+Shut Down,Eteindre
+Overclocking profiles,Profil d'Overclocking
+Do you want to upgrade workers to the latest OS version?,Voulez-vous mettre à niveau les Workers vers la dernière version de HiveOS?
+"Accepted Rejected Invalid, Accepted Ratio","Accepté Rejeté Invalide, Accepté Ratio"
+No stats found so far,Aucunes statistique
+You don't have required access rights,Vous n'avez pas les droits d'accès requis
+Delete,Supprimer
+You can,Vous pouvez
+create one,créer un
+FarmsAccess.NoUsersFound,Aucun utilisateurs trouvé.
+Owner,Propriétaire
+Access Levels,Niveau d'accès
+User name,Nom d'utilisateur
+Grant access to project,Accorder l'accès au projet
+Grant access,Accorder l'accès
+Login of existing user,Identifiant de l'utilisateur existant
+Access Levels...,Niveau d'accès...
+User login,Identifiant utilisateur
+ProjectAccess.TrustUserDescription,"Vous pouvez donner un accès de contrôle à votre ferme à d'autres utilisateurs, par exemple, vous pouvez accorder des privilèges d'accès total à vos administrateurs afin qu'ils puissent tout gérer à votre place. Ou vous pouvez donner les privilèges d'accès en lecture seule à votre personnel technique qui effectue une maintenance et une surveillance simple et rien de plus."
+Profile,Profile
+Telegram,Telegram
+here,Ici
+Bio,Bio
+Update Info,Actualiser Info
+Company Info,Entreprise Info
+Skype,Skype
+Phone,Téléphone
+API docs are,Les docs API sont
+Setup Two-factor Authentication,Paramétrer la double Authentication
+Two-factor Authentication,Double Authentication
+Update Password,Changer le mode de passe
+Confirm New Password,Confirmer le nouveau mot de passe
+Password must be 8 or more characters.,Le mot de passe doit contenir au minimum 8 caractères.
+New Password,Nouveau mot de passe
+Current Password,Mot de passe actuel
+Full Name,Nom complet
+Account Profile Settings,Pramètres du profil
+Language,Langue
+Account.BIODescription1,Information additionnelle à propos de vous.
+Account.BIODescription2,C'est optionnel.
+Account.AuthenticationDecstiption,Activer pour une sécurité accrue.
+Account.PasswordDescription,La modification de votre mot de passe réinitialisera également votre clé API.
+Account.ProfileDescription,Votre identifiant est votre identité sur Hive OS et est utilisé pour vous connecter.
+6 digits code,Code à 6 chiffres
+Enable 2FA,Activer 2FA
+Turn off 2FA,Désactiver 2FA
+Account.AuthenticationTokenButton,Générer un nouveau jeton API personnel
+Authentication Tokens,Token d'authentication
+Account.AuthenticationToken,"Là, vous pouvez gérer vos jetons api personnels. Vous pouvez en générer un nouveau pour votre application tierce. Ou supprimer une session par précaution"
+Personal Tokens,Tokens personnel
+Session Tokens,Tokens de session
+Authy,Authy
+Account.AuthenticationTwoFactor3,"qui peut être installé sur plusieurs périphériques, y compris de bureau."
+Account.AuthenticationTwoFactor4,Scannez le code avec votre appareil photo et entrez le code ci-dessous.
+Farm Activity Feed,Flux d'activité de la ferme
+Pay,Payer
+Payments,Paiements
+"Amount to refill, $","Montant pour recharger, $"
+Your Current Balance,Votre solde actuel
+Payments History,Historique des paiements
+Farms Balance,Solde de la ferme
+Free,Libre/Gratuit
+Invoice,Facture
+days left,jours restant
+Disable Paid Features,Désactiver les paiements
+Enable Paid Features,Activer les paiements
+Log in,Connexion
+Return to,Retourner vers
+Reset password,Reinitialiser le mot de passe
+Type email to recover password,Entrer votre email pour récupérer votre mot de passe
+"Sorry, a critical error occurred on this page.","Désolé, erreur critique sur cette page."
+Just one step!,Dernière étape!
+create wallet,Créer un portefeuille
+first!,Début!
+Farm.FarmsFs.Description,Pour gérer les feuilles de route dont vous avez besoin
+No Overclocking Profiles found so far. You can,Aucun profile d'Overclocking trouvé. Vous pouvez
+Add OC Profile,Ajouter un profil d'OC
+Incoming farms,Revenu de la ferme
+Log in your account,Connecter-vous à votre compte
+2FA code (if enabled),2FA code (Si activé)
+Remember me,Se souvenir de moi
+Forgot password?,Mot de passe oublié?
+Register,S'enregistrer
+Don't have account yet?,Vous n'avez pas de compte?
+"Sorry, the page you were trying to view does not exist.","Désolé, la page que vous tenter d'accéder n'existe pas."
+Referral Link,Lien d'affiliation
+Referral.ReferralLink1,"Mettez ce lien partout où vous pouvez et les gens seront rédirigés s'ils suivent ce lien. Après leur inscription, vous obtenez"
+Your referral,Votre affiliation
+Copy to Clipboard,Copier dans le presse papier
+Promo Code,Promo Code
+Referral.PromoCodeDescription1,"Parfois, vous ne pouvez pas donner votre lien aux gens. Ici vous pouvez générer votre promocode unique comme ""MIKESHIVE"" ou ""SAVEBUCKSFORLAMBO"". Si vous êtes un vendeur de matériel ou un magasin de service ou tout autre entreprise hors ligne, cela peut fonctionner pour vous. Pour motiver les clients à s'inscrire avec votre code, Hive déposera"
+Referral.PromoCodeDescription2,sur leur compte une fois qu'ils le feront.
+ETH Wallet Address,Adresse portefeuille ETH
+Referral Balance,Solde d'affiliation
+Deposit to Hive,Depôt vers Hive
+Referral transactions history,Historique des transactions d'affiliation
+Referral.BalanceDescription2,Spécifier votre adresse ETH pour un paiement automatique à chaque début de mois.
+Referral.BalanceDescription1,Mineur que vous avez invité.
+Referral.BalanceDescription3,Les retraits d'affiliation sont effectués une fois par mois. Vous serez payé si vous avez défini l'adresse ici.
+Referral.BalanceDescription4,"Paiement total minimum est de 25$ (21,5€)."
+Referral.BalanceDescription5,"A cause des frais de transaction élevés sur le BTC, le paiement ne peut pas être changé."
+Referral.PromoCodeYoungAccount,Votre compte est trop jeune pour utiliser les codes promotionnels.
+Referral.BalanceDescription,Vous n'avez pas encore de récompense d'affiliation.
+Passwords do not match,Les mots de passe ne correspondent pas
+Create new account,Créer un nouveau compte
+Confirm password,Confirmer le mot de passer
+By clicking Register you agree with,En cliquant sur s'enregistrer vous êtes d'accord avec
+Terms,Termes
+Have already account?,Vous avez déjà un compte?
+RestorePassword.Message,"Mot de passe envoyé avec succès, vérifiez vos email"
+Remove all,Supprimer tout
+Id,Id
+Activity Feed,Flux d'activité
+Build Log,Créer les fichiers journaux
+Other,Autre
+Flight Sheet,Feuille de route
+Flight Sheets,Feuilles de route
+To start mining please select Flight Sheet!,Pour commencer à miner sélectionner une feuille de route!
+Start Configure Overclocking,Démarrer la configuration d'Overclocking
+Flash VBIOS,Flash VBIOS
+No Overclocing Settings found so far.,Pas de paramètres d'Overclocing existant.
+Load From Template,Charger depuis un modèle
+Save As Template,Sauvegarder en tant que modèle
+Reset All,Réinitialiser tout
+Configure New Algo,Configurer un nouvel algo
+Transfer,Transfert
+Advanced Settings,Paramètres avancées
+Confirmation required,Confirmation requise
+Removed project CANNOT be restored! Are you ABSOLUTELY sure?,Les objets supprimés NE POURRONT PAS être restoré! Êtes-vous COMPLETEMENT sûr?
+This action can lead to data loss. To prevent accidental actions we ask you to confirm your intention,"Cette action peut entraîner une perte de données. Pour éviter les actions accidentelles, nous vous demandons de confirmer votre intention"
+Please type,Veuillez saisir
+to proceed or close this modal to cancel.,pour continuer ou fermer ce panneau pour annuler.
+You are going to remove worker,Vous êtes sur le point de supprimer le Worker
+Remove Worker,Supprimer le Worker
+Removed Worker cannot be restored!,Les Worker supprimés ne peuvent pas être restoré!
+Update Worker,Rafraichir le Worker
+Worker Name,Nom du Worker
+Worker Settings,PAramètres du Worker
+OpenVPN Config,OpenVPN Configuration
+Are you sure?,Etes-vous sûre?
+Worker Password,Mot de passe du Worker
+If you change the password in database only and there is active worker using it then the worker will go offline.,"Si vous modifiez le mot de passe dans la base de données uniquement et que le Worker actif l'utilise, le Worker se déconnecte."
+Change password in DB and try to change it on worker. Will try to change password on online worker. Password will be changed only after notification from the worker.,Changez le mot de passe dans la base de données et essayez de le changer sur le Worker. Cela va essayer de changer le mot de passe sur le Worker en ligne. Le mot de passe ne sera modifié qu'après notification du Worker.
+Change password in DB only. The worker with current password will offline.,Changer le mot de passe dans la base de données seulement. Le Woker avec le mot de passe actuel sera déconnecté.
+Transfer Worker,Transferer le Worker
+Move worker to another farm,Déplacer le Worker vers une autre ferme
+Do you want to remove worker?,Voulez-vous supprimer le Worker?
+Wallet is not transferred with worker. Please apply wallet from other farm after this move is done.,Le portefeuille n'est pas transféré au Worker. S'il vous plaît appliquer le portefeuille de l'autre ferme après que le transfert soit fait.
+Do you want to transfer worker?,Voulez-vous transferer le worker?
+Select farm,Selectionner une ferme
+Flight sheet is not copied with the worker. Please apply flight sheet in a new farm after the movement is done.,La feuille de route n'est pas copiée avec le Worker. Veuillez appliquer la feuille de route dans une nouvelle ferme une fois l'opération effectué.
+Transfer Worker?,Transferer le Worker?
+Tuning,Réglage
+Worker,Worker
+Online,En ligne
+With Errors,Avec Erreurs
+Hide filters,Cacher les filtres
+Show filters,Montrer les filtres
+with,avec
+Name changed,Nom changé
+Farm settings,Paramètres de la ferme
+You can only merge the project to other you manage.,Vous ne pouvez fusionner le projet qu'avec d'autre projet que vous gérez.
+Merge Project,Fusionner le projet
+Transfer Project,Transferer le projet
+Type project name,Nom de projet
+Select user login,Selectionner un identifiant utilisateur
+Remove Project,Supprimer projet
+You are going to remove farm,Vous êtes sur le point de supprimer la ferme
+You are going to merge farm,Vous êtes sur le point de fusionner la ferme
+Merged project CANNOT be restored!,Les projets fusionner NE PEUVENT PAS être restoré!
+Are you ABSOLUTELY sure?,Êtes-vous COMPLETEMENT sûr?
+Save Changes,Sauvegarder les changements
+Timezone changed,Fuseau horaire changé
+Farm changed,Ferme changé
+Farm.Settings.TagsDescription,Add your custom tags to mark the workers
+Farm.Settings.RemoveDescription1,"Removing the project will delete its repository and all related resources including issues, merge requests etc."
+Farm.Settings.RemoveDescription2,Les projets supprimé NE PEUVENT PAS être restoré!
+Farm Title,Titre de la ferme
+Remove Farm,Suppriemr la ferme
+Change farm owner?,Changer le propriétaire de la ferme?
+to change ownership to,changer le propriétaire pour
+Leave Farm,Quitter a ferme
+After this you won't have access to this farm anymore,Vous n'aurez plus du tout accès à la ferme après cela.
+Do you want to change farm owner?,Voulez-vous changer le propriétaire de la ferme?
+to remove farm access,pour supprimer l'accès à la ferme
+Do you want to remove your access?,Voulez-vous supprimer vos accès?
+Do you want to remove farm?,Voulez-vous supprimer la ferme?
+Do you want to leave farm?,Voulez-vous quitter la ferme?
+Farm.Setting.FarmHashDescription1,Le hash de la ferme est utilisé pour connecter le Worker à la ferme sans le précréer sur le Web.
+Farm.Setting.FarmHashDescription2,Régler-le
+Farm.Setting.FarmHashDescription3,Avant de commencer.
+More details,Plus de détails
+Farm Hash,Ferme Hash
+Transfer farm,Transferer le ferme
+Farm.Setting.TransferDescription,Transferer la ferme à un autre utilisateur. Spécifier l'identifiant d'une utilisateur existant qui sera le nouveau propriétaire de la ferme.
+No wallets found so far.,Aucun portefeuille trouvé.
