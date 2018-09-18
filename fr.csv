@@ -941,7 +941,7 @@
 "PaidFeaturesEnabled","Fonctionnalités payantes activées"
 "PaidFeaturesDisabled","Fonctionnalités payantes désactivées"
 "Payer","Payeur"
-"PayerInfo","Vous pouvez définir un autre utilisateur comme responsable du dépôt des fermes que vous possédez. Cet utilisateur peut être votre responsable financier et nécessite uniquement un accès "Surveiller" aux fermes."
+"PayerInfo","Vous pouvez définir un autre utilisateur comme responsable du dépôt des fermes que vous possédez. Cet utilisateur peut être votre responsable financier et nécessite uniquement un accès 'Surveiller' aux fermes."
 "PayerTransfer","Tranfert la responsabilité de la facturation de la ferme"
 "PayerUser","Définir un autre utilisateur comme payeur"
 "Debt","Dette"
