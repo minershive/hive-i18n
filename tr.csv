@@ -948,8 +948,7 @@
 "AutomaticWithdraw","Ödemelerini hesabınız sıfırlanıncaya kadar günlük olarak hesabınızdan çekildecektir."
 "Use deposit, $","Depozit kullan , $"
 "TransferPaymentOwnership","Transfer, ödeme yada sahipliği başka kullanıcalara verebilirsiniz"
-"""ManualyTransfer"",""Hesaplar arasında yada kullanıcılar arasında transferleri manuel yapabilirsiniz.
-"""
+"ManualyTransfer","Hesaplar arasında yada kullanıcılar arasında transferleri manuel yapabilirsiniz."
 "YourDepositUsage","Çiftliğin sahibi siz iseniz ödemeler hesabınızdan otomatik çekilecektir."
 "RefillDeposit","Depozit yükleme"
 "BillingFAQ","Ödeme yardımı"
