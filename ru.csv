@@ -556,7 +556,7 @@
 "PoolConfigModal.Advanced","Расширенная настройка"
 "PoolConfigModal.AdvancedHint","<strong>Будьте внимательны!</strong> Каждый адрес должен начинаться с новой строки"
 "PoolConfigModal.PoolUrls","Введите адреса"
-"FS.ConfiguredInMiner","Настроить в майнере"
+"FS.ConfiguredInMiner","Настроен в майнере"
 "AutoFan","AutoFan"
 "Token","Токен"
 "PageNotFound","Извините, эта страница не существует"
