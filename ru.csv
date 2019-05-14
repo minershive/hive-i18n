@@ -1224,7 +1224,7 @@
 "Public stats","Публичная статистика"
 "Statistics.PublicStats","Публичная статистика HiveOS"
 "Autofan settings","Настройки автофана"
-"MinerForm.Template.WalletContainsPayload","Если ваш адрес кошелька содержит информацию о полезной нагрузке, используйте точку “.”, чтобы отделить ее от адреса кошелька и имени работника."
+"MinerForm.Template.WalletContainsPayload","Если ваш адрес кошелька содержит составную информацию, используйте точку “.”, чтобы отделить ее от адреса кошелька и имени работника."
 "MinerForm.Template.WalletContainsPayloadExample","Например: {example}"
 "MinerForm.Config.NumberOfCpuThreads","номер CPU потока майнера"
 "Toggle favourite","Переключить избранный"
